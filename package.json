@@ -2,7 +2,7 @@
   "name": "lesson11",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "homework.js",
   "scripts": {
     "test": "mocha"
   },
